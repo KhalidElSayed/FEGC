@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<megsjc>
+    <agrupaments>
+        <agrupament>
+            <name>AEiG Garbí</name>
+            <addr>Av. Catalunya 3</addr>
+            <cp>25002</cp>
+            <poblacio>Lleida</poblacio>
+            <email>garbi@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/Garbi.jpg</logo>
+            <coordinates>
+                <lat>41.314590</lat>
+                <lon>2.023044</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Anton Vilà</name>
+            <addr>Plaça de Blanes</addr>
+            <cp>708820</cp>
+            <poblacio>El Prat de Llobregat</poblacio>
+            <email>antonvila@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/anton_vila.jpg</logo>
+            <coordinates>
+                <lat>41.324455</lat>
+                <lon>2.099572</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Gratallops</name>
+            <addr>Avinguda de Prat de la Riba 27</addr>
+            <cp>2708780</cp>
+            <poblacio>Pallejà</poblacio>
+            <email>gratallops@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            
+            <coordinates>
+                <lat>41.421230</lat>
+                <lon>1.997373</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Joan XXIII</name>
+            <addr>Plaça de l'Església, 1</addr>
+            <cp>08760</cp>
+            <poblacio>Martorell</poblacio>
+            <email>JoanXXIII@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/joan_XXIII.jpg</logo>
+            <coordinates>
+                <lat>41.474247</lat>
+                <lon>1.927738</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Roc del Migdia</name>
+            <addr>Raval de Molins 36</addr>
+            <cp>08850</cp>
+            <poblacio>Gavà</poblacio>
+            <email>rocdelmigdia@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/Roc_migdia.jpg</logo>
+            <coordinates>
+                <lat>41.303776</lat>
+                <lon>2.003155</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Martin Luther King</name>
+            <addr>Bonavista 111</addr>
+            <cp>08960</cp>
+            <poblacio>Sant Just Desvern</poblacio>
+            <email>lutherking@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/Martin_Luther_King.png</logo>
+            <coordinates>
+                <lat>41.385567</lat>
+                <lon>2.076358</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Nostra Dona de la Salut</name>
+            <addr>Ptge. Penedès s/n</addr>
+            <cp>08980</cp>
+            <poblacio>Sant Feliu de Llobregat</poblacio>
+            <email>nostradonadelasalut@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            
+            <coordinates>
+                <lat>41.380672</lat>
+                <lon>2.046025</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Nostra Sra. del Vinyet</name>
+            <addr>Avinguda de Ronda, s/n</addr>
+            <cp>08870</cp>
+            <poblacio>Sitges</poblacio>
+            <email>nostrasenyoravinyet@escolteiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            
+            <coordinates>
+                <lat>41.242462</lat>
+                <lon>1.807501</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Pere II- Sta.M.de Foix</name>
+            <addr>Carrer del Bisbe Morgades 23</addr>
+            <cp>08720</cp>
+            <poblacio>Vilafranca del Penedès</poblacio>
+            <email>santamariadefoix@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/pere_II.jpg</logo>
+            <coordinates>
+                <lat>41.342495</lat>
+                <lon>1.698415</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Roc d'Oró</name>
+            <addr>Carrer de Francesc Moragas 14</addr>
+            <cp>08620</cp>
+            <poblacio>Sant Vicenç dels Horts</poblacio>
+            <email>rocdoro@exoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            <logo>http://profile.ak.fbcdn.net/hprofile-ak-snc4/41673_100000801125533_751_n.jpg
+            </logo>
+            <web>http://www.rocdoro.org/cau.html</web>
+            <coordinates>
+                <lat>41.393005</lat>
+                <lon>2.010873</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Sant Bernat de Claravall</name>
+            <addr>Plaça Nova s/n</addr>
+            <cp>08640</cp>
+            <poblacio>Olesa de Montserrat</poblacio>
+            <email>santbernat@escoltesiguies.cat</email>
+            <web>http://cauolesa.wordpress.com</web>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            
+            <coordinates>
+                <lat>41.545937</lat>
+                <lon>1.893544</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Sant Joan</name>
+            <addr>Muntanya 53</addr>
+            <cp>08840</cp>
+            <poblacio>Viladecans</poblacio>
+            <email>santjoan@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            
+            <coordinates>
+                <lat>41.319637</lat>
+                <lon>2.016170</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Sant Jordi</name>
+            <addr>Carrer d'Angel Guimerà 27-29</addr>
+            <cp>08950</cp>
+            <poblacio>Esplugues de Llobregat</poblacio>
+            <email>santjordi@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            
+            <coordinates>
+                <lat>41.377235</lat>
+                <lon>2.085698</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Sant Ramon Nonat</name>
+            <addr>Carrer Riereta 4</addr>
+            <cp>08830</cp>
+            <poblacio>Sant Boi de Llobregat</poblacio>
+            <email>santramonnonat@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            
+            <coordinates>
+                <lat>41.346897</lat>
+                <lon>2.042396</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Sant Sadurní</name>
+            <addr>Plaça del Doctor Salvans 1</addr>
+            <cp>08770</cp>
+            <poblacio>Sant Sadurní d'Anoia</poblacio>
+            <email>santsadurni@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Baix Llobregat/ Garraf/ Alt Penedès</demarcacio>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/logo_MEGSJC_st_sadurni1.jpg
+            </logo>
+            <coordinates>
+                <lat>41.436550</lat>
+                <lon>1.796265</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Bona-Nova -Joan Bosco</name>
+            <addr>Plaça de la Bonanova</addr>
+            <cp>08022</cp>
+            <poblacio>Barcelona</poblacio>
+            <email>bonanovajoanbosco@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Barcelonès</demarcacio>
+            <sots>I</sots>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/bonanova.jpg</logo>
+            <coordinates>
+                <lat>41.406155</lat>
+                <lon>2.133856</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Damian de veuster</name>
+            <addr>Avinguda de Vallvidrera 14</addr>
+            <cp>08017</cp>
+            <poblacio>Barcelona</poblacio>
+            <email>damiandeveuster@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Barcelonès</demarcacio>
+            <sots>I</sots>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/Damian_Veuster.jpg</logo>
+            <web>http://damiandeveuster.wordpress.com</web>
+            <coordinates>
+                <lat>41.405334</lat>
+                <lon>2.115651</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG Joan Maragall</name>
+            <addr>Carrer dels Madrazo 92</addr>
+            <cp>08021</cp>
+            <poblacio>Barcelona</poblacio>
+            <email>joanmaragall@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Barcelonès</demarcacio>
+            <sots>I</sots>
+            
+            <coordinates>
+                <lat>41.398029</lat>
+                <lon>2.145852</lon>
+            </coordinates>
+        </agrupament>
+        <agrupament>
+            <name>AEiG LLuïsos de Gràcia</name>
+            <addr>Plaça del Nord 7-10</addr>
+            <cp>08024</cp>
+            <poblacio>Barcelona</poblacio>
+            <email>lluisosdegracia@escoltesiguies.cat</email>
+            <demarcacio>Demarcació Barcelonès</demarcacio>
+            <sots>I</sots>
+            <logo>http://www.escoltesiguies.cat/imatges/logos_aeigs/logo_lluisos_gracia_0.jpg</logo>
+            <web>http://www.aelluisos.org/</web>
+            <coordinates>
+                <lat>41.407265</lat>
+                <lon>2.155609</lon>
+            </coordinates>
+        </agrupament>
+
+    </agrupaments>
+</megsjc>

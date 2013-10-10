@@ -1,0 +1,15 @@
+<agrupament>
+    <name></name>
+    <addr></addr>
+    <cp></cp>
+    <poblacio></poblacio>
+    <email></email>
+    <web></web>
+    <demarcacio></demarcacio>
+    <sots></sots>
+    <logo></logo>
+    <coordinates>
+        <lat></lat>
+        <lon></lon>
+    </coordinates>
+</agrupament>
